@@ -12,7 +12,7 @@
 </div>
 
 ## Salut 👋  ! Moi, c'est JB
-Passionné par le développement et l'enseignement, je **transforme les concepts techniques en explications simples et ludiques**. 
+Passionné par le développement et l'enseignement, je **transforme les concepts techniques en explications simples et ludiques**.   
 Voici un aperçu de ce que je fais :
 
 ### 🧑‍🏫 Formateur avec du Peps
