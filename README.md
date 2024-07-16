@@ -16,12 +16,15 @@ Voici un aperçu de ce que je fais :
 - J'adore apprendre de nouvelles technologies et partager mes découvertes avec la communauté.
 
 🔧 **Ma stack du moment**
-- **Langages** : [Liste de tes langages préférés]
-- **Frameworks** : [Liste de tes frameworks préférés]
-- **Outils** : [Liste de tes outils préférés]
+Django, Nuxt, Vue.JS
 
 🌟 **Et sinon...**
-- J'apprends le piano au conservatoire depuis 2 ans. [ton hobby ou intérêt personnel]
+- J'apprends le piano au conservatoire depuis 2 ans.
 - Toujours partant pour parler cinoche pendant des heures !
 
 📫 **Retrouve-moi sur:**
+<div align="left">
+  <a href="https://www.youtube.com/@levillageducode"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+  <a href="https://www.linkedin.com/in/jblavisse/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://x.com/jblavisse"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=181919&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</div>
