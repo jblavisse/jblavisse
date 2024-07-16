@@ -1,4 +1,4 @@
-<p style="font-size:30px;font-weight:700;">👋 Salut ! Moi, c'est JB</p>
+
 <div align="left">
   <a href="https://www.youtube.com/@levillageducode">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
@@ -11,8 +11,7 @@
   </a>
 </div>
 
----
-
+## Salut 👋  ! Moi, c'est JB
 Passionné par le développement et l'enseignement, je **transforme les concepts techniques en explications simples et ludiques**. 
 Voici un aperçu de ce que je fais :
 
