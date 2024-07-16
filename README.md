@@ -1,4 +1,5 @@
 ## 👋 Salut ! Moi, c'est JB
+
 <div align="left">
   <a href="https://www.youtube.com/@levillageducode">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
@@ -11,8 +12,10 @@
   </a>
 </div>
 
+---
 
-Passionné par le développement et l'enseignement, je **transforme les concepts techniques en explications simples et ludiques**. Voici un aperçu de ce que je fais :
+Passionné par le développement et l'enseignement, je **transforme les concepts techniques en explications simples et ludiques**. 
+Voici un aperçu de ce que je fais :
 
 ### 🧑‍🏫 Formateur avec du Peps
 - J'accompagne les développeurs en herbe dans leur parcours, les aidant à maîtriser les bases et à exceller dans leurs projets.
