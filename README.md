@@ -15,7 +15,7 @@
 Passionné par le développement et l'enseignement, je **transforme les concepts techniques en explications simples et ludiques**.   
 Voici un aperçu de ce que je fais :
 
-### 🧑‍🏫 Formateur avec du Peps
+### 🧑‍🏫 Formateur
 - J'accompagne les développeurs en herbe dans leur parcours, les aidant à maîtriser les bases et à exceller dans leurs projets.
 - Mon approche : des exemples concrets, des métaphores ludiques, et beaucoup d'interactivité.
 
