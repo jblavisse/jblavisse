@@ -2,7 +2,7 @@
 
 Développeur web full-stack depuis **10 ans**. Je fais du **Laravel**, du **WordPress sur mesure** (Sage/Acorn/Bedrock — pas de page builder), des apps **Tallstack** (Livewire + Alpine) et des interfaces **React**.
 
-Fondateur d'[**Omerialis**](https://github.com/omerialis) — agence web pour activités de loisirs.
+Créateur d'[**Omerialis**](https://github.com/omerialis) — service pour activités de loisir.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jblavisse)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/jblavisse)
