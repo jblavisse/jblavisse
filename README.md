@@ -39,5 +39,4 @@ Fondateur d'[**Omerialis**](https://github.com/omerialis) — agence web pour ac
 - ✅ Expert **Opquast** (qualité web)
 - 🎹 Piano · 🎬 Cinéma
 
-📍 Écques (Saint-Omer), Hauts-de-France
-```
+📍 Saint-Omer, Hauts-de-France
