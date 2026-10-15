@@ -18,9 +18,9 @@ Je forme des adultes à l'informatique depuis 2018 : plus de 500 apprenants, du 
 **Dépôts à explorer**
 
 - [reclaiming-disk-space](https://github.com/jblavisse/reclaiming-disk-space) : un skill d'agent IA qui audite le disque (macOS, Windows, Linux), fait valider chaque suppression et passe par la corbeille.
+- [grasp-ai](https://github.com/jblavisse/grasp-ai) : des commandes pour Claude Code ou Gemini CLI. L'IA vous fait expliquer un concept avec vos mots, repère vos lacunes, en tire des notes et vous les fait réviser.
 - [cours-terminal](https://github.com/jblavisse/cours-terminal) : les bases de la ligne de commande, en slides Marp.
-- [cours-git](https://github.com/jblavisse/cours-git) : mon cours Git.
-- [tuto-git-group-christmas](https://github.com/jblavisse/tuto-git-group-christmas) : un exercice de Git à plusieurs, sur le thème de Noël.
+- [scss-from-scratch](https://github.com/jblavisse/scss-from-scratch) : mettre en place Sass dans un projet HTML/CSS, étape par étape.
 
 J'ai enseigné pour Studi, MyDigitalSchool, Simplon, EPSI, EFFICOM, Label Emmaüs, POP School, le Centre Européen de Formation, ID Formation, le GRETA Grand Littoral et Le Chiffre.
 
