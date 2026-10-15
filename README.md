@@ -1,47 +1,31 @@
-# Hey salut, moi c'est JB !
+<img src="assets/banner.jpg" alt="Jean-Baptiste Lavisse, formateur IA et automatisation pour les écoles et les entreprises" width="100%">
 
-Développeur **Full-Stack TypeScript** & **Formateur**. Je construis des sites et des applications web et mobiles (**React.js**, **React Native**, **Node.js**), du **WordPress sur mesure** (Bedrock, Sage : pas de page builder), et je forme les équipes à reprendre le tout en autonomie.
+### Bonjour, je suis Jean-Baptiste Lavisse
 
-[![Site](https://img.shields.io/badge/jblavisse.fr-2F4A55?style=flat&logo=astro&logoColor=white)](https://jblavisse.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jblavisse)
-[![Malt](https://img.shields.io/badge/Malt-FC5757?style=flat&logo=malt&logoColor=white)](https://www.malt.fr/profile/jeanbaptistelavisse)
-[![Cal.com](https://img.shields.io/badge/30_min_de_cadrage-292929?style=flat&logo=caldotcom&logoColor=white)](https://cal.com/jblavisse/30min)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/jblavisse)
+Je forme des adultes à l'informatique depuis 2018 : plus de 500 apprenants, du bac+2 au bac+5. Aujourd'hui, j'enseigne surtout l'IA générative et l'automatisation, aux écoles comme aux équipes en entreprise. Je suis aussi jury des titres professionnels DWWM et CDA.
 
----
+**Ce que j'enseigne**
 
-### 🛠 Stack
+- L'IA générative au quotidien : ChatGPT, Claude, Gemini, Copilot
+- L'automatisation no code et low code avec n8n et Make
+- Les agents IA : RAG, MCP
+- Le développement logiciel, du bac+2 au bac+5
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+**En ce moment (2026-2027)**
 
-| | |
-|---|---|
-| **Frontend** | React.js, Next.js, Astro, Tailwind CSS, shadcn/ui |
-| **Mobile** | React Native, Expo |
-| **Backend** | Node.js, API REST, PostgreSQL, WordPress (Bedrock, Sage) |
-| **Qualité** | Vitest, Playwright, CI/CD GitHub Actions, Opquast |
-| **Infra** | Docker, Coolify, Hetzner : tout autohébergé |
-| **Monitoring** | Uptime Kuma, Umami, Grafana/Prometheus |
+- Mentor IA chez Studi, dans le cursus IA et data
+- Quatre modules à MyDigitalSchool, du bac+3 au bac+5, dont « Ingénierie de l'automatisation » (28 h)
+- Formateur CDA chez Simplon
 
----
+**Dépôts à explorer**
 
-### 📌 Parcours
+- [reclaiming-disk-space](https://github.com/jblavisse/reclaiming-disk-space) : un skill d'agent IA qui audite le disque (macOS, Windows, Linux), fait valider chaque suppression et passe par la corbeille.
+- [cours-terminal](https://github.com/jblavisse/cours-terminal) : les bases de la ligne de commande, en slides Marp.
+- [cours-git](https://github.com/jblavisse/cours-git) : mon cours Git.
+- [tuto-git-group-christmas](https://github.com/jblavisse/tuto-git-group-christmas) : un exercice de Git à plusieurs, sur le thème de Noël.
 
-- 🛠 Freelance depuis **2016** : sites, applications web et mobiles pour agences, startups et PME
-- 🎓 Formateur depuis **2018** : **500+ apprenants** (DWWM, CDA, référents numériques, e-commerce)
-- ⚖️ Jury habilité DREETS : titres **DWWM** et **CDA**
-- ✅ **Opquast Expert** 975/1000 (qualité web)
-- 🚀 En ce moment : un SaaS de prospection B2B augmentée par IA, en full TypeScript
-- 🎹 Piano · 🎬 Cinéma · 👨‍👧‍👦 Papa de trois
+J'ai enseigné pour Studi, MyDigitalSchool, Simplon, EPSI, EFFICOM, Label Emmaüs, POP School, le Centre Européen de Formation, ID Formation, le GRETA Grand Littoral et Le Chiffre.
 
-📍 Saint-Omer, Hauts-de-France · sur site (Lille) ou à distance
+Basé à Saint-Omer (Hauts-de-France), j'interviens sur site ou à distance. Pour parler d'un module ou d'une formation pour votre équipe, [réservez 30 minutes](https://cal.com/jblavisse/30min) ou écrivez-moi à [contact@jblavisse.fr](mailto:contact@jblavisse.fr).
 
-**Un projet ou une équipe à faire monter ? [Parlons-en : 30 minutes de cadrage](https://cal.com/jblavisse/30min)**
+[jblavisse.fr](https://jblavisse.fr) · [LinkedIn](https://linkedin.com/in/jblavisse) · [Prendre rendez-vous](https://cal.com/jblavisse/30min)
