@@ -1,5 +1,3 @@
-<img src="assets/banner.jpg" alt="Jean-Baptiste Lavisse, formateur IA et automatisation pour les écoles et les entreprises" width="100%">
-
 ### Bonjour, je suis Jean-Baptiste Lavisse
 
 Je forme des adultes à l'informatique depuis 2018 : plus de 500 apprenants, du bac+2 au bac+5. Aujourd'hui, j'enseigne surtout l'IA générative et l'automatisation, aux écoles comme aux équipes en entreprise. Je suis aussi jury des titres professionnels DWWM et CDA.
