@@ -4,8 +4,8 @@ Je forme des adultes à l'informatique depuis 2018 : plus de 500 apprenants, du 
 
 **Ce que j'enseigne**
 
-- L'IA générative au quotidien : ChatGPT, Claude, Gemini, Copilot
-- L'automatisation no code et low code avec n8n et Make
+- L'IA générative au quotidien : ChatGPT, Claude, Gemini
+- L'automatisation no code et low code avec n8n
 - Les agents IA : RAG, MCP
 - Le développement logiciel, du bac+2 au bac+5
 
